@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-modern-technology-intelligent-ai-era-background-design-backgroundintelligent-ai-technologypsd-image_75384.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    position: relative;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .logo {
+      height: 60px;
+      width: 100px;
+  }
+  nav {
+    float: right;
+  }
+  nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  nav ul li {
+    list-style: none;
+  }
+  
+  nav ul li a {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: 262626;
+  }
+.m{
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    background-color: rgba(0, 0, 0, 0.292);
+    height: 400px;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.523);
+}
+.f{
+    font-size: x-large;
+    color: antiquewhite;
+    font-weight: bolder;
+}
+.col{
+    font-size: 60px;
+    color:rgb(229, 240, 33);
+    font-weight: 800;
+    font-style: oblique;
+}
+.s{font-size: x-large;
+    color: rgb(44, 35, 23);
+    font-weight: bolder;
+}
+.l{
+    text-decoration: none;
+    color: rgb(226, 178, 106);
+    font-size: larger;
+}
+.t{
+    font-size: x-large;
+    color: antiquewhite;
+    font-weight: bolder;
+}
